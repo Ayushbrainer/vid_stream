@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "738197927043",
+    "firebase_url": "https://videostreamer-4cd2d.firebaseio.com",
+    "project_id": "videostreamer-4cd2d",
+    "storage_bucket": "videostreamer-4cd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738197927043:android:0d3c6e0d4c6890376717b6",
+        "android_client_info": {
+          "package_name": "com.ayush.the_official_video_streamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsz-zOA5Hwweqzqt3FZOPoeuXzPZSa1z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738197927043:android:d245410536d4eee06717b6",
+        "android_client_info": {
+          "package_name": "com.ayush.vid_streamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsz-zOA5Hwweqzqt3FZOPoeuXzPZSa1z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738197927043:android:6f278d0e4596e9a76717b6",
+        "android_client_info": {
+          "package_name": "com.ayush.video_streamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsz-zOA5Hwweqzqt3FZOPoeuXzPZSa1z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738197927043-f6e03op31prps0dohl3q4e4ho3om0tcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
